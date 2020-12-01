@@ -1,0 +1,7 @@
+F:\Kendi_Orneklerim\C#\Ornek0004_Envanter\Envanter\obj\Debug\Envanter.csprojAssemblyReference.cache
+F:\Kendi_Orneklerim\C#\Ornek0004_Envanter\Envanter\obj\Debug\Envanter.csproj.CoreCompileInputs.cache
+F:\Kendi_Orneklerim\C#\Ornek0004_Envanter\Envanter\bin\Debug\Envanter.exe.config
+F:\Kendi_Orneklerim\C#\Ornek0004_Envanter\Envanter\bin\Debug\Envanter.exe
+F:\Kendi_Orneklerim\C#\Ornek0004_Envanter\Envanter\bin\Debug\Envanter.pdb
+F:\Kendi_Orneklerim\C#\Ornek0004_Envanter\Envanter\obj\Debug\Envanter.exe
+F:\Kendi_Orneklerim\C#\Ornek0004_Envanter\Envanter\obj\Debug\Envanter.pdb
